@@ -94,7 +94,7 @@ Functions that run as soon as they are defined:
 })();
 ```
 
-  
+   
 ## Nested Functions
 
 Functions can be nested within other functions. The inner function has access to the variables and parameters of the outer function.
